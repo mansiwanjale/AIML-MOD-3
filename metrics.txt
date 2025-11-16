@@ -1,0 +1,6 @@
+Clustering Quality Metrics (k=25)
+==================================================
+
+silhouette: 0.017485059355555187
+calinski_harabasz: 7.545837262594955
+davies_bouldin: 6.027212333870893
